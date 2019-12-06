@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Welcome to my website, it's currently under construction."
   location         : "Stockholm, Sweden"
-  employer         : KTH Royal Institute of Technology
+  employer         : "KTH Royal Institute of Technology"
   pubmed           :
   googlescholar    :
-  email            :  filipkl@kth.se
+  email            :  "filipkl@kth.se"
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/FilipKlaesson"
+  github           : "FilipKlaesson"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/filip-klaesson"
+  linkedin         : "in/filip-klaesson"
   orcid            :
   pinterest        :
   soundcloud       :
