@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering Physics, KTH Royal Institute of Technology, 2018
+* M.S. in Systems, Control and Robotics, KTH Royal Institute of Technology, 2020 (expected)
+* Visiting Research Student, Computing and Mathematical Sciences, California Institute of Technology, 2019
+  * <sub><sup>Supervisor: Richard M. Murray</sup></sub>
 
-Work experience
+Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,8 +27,8 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
+
+Technical Skills
 ======
 * Skill 1
 * Skill 2
@@ -41,19 +42,23 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!---
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
