@@ -1,10 +1,10 @@
 ---
 title: "Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: '2019-11-19'
-venue: 'Under Review'
+venue:
 paperurl: 'http://FilipKlaesson.github.io/files/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems.pdf'
 citation:
 ---
