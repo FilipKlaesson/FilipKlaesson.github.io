@@ -14,7 +14,7 @@ Education
 * B.S. in Engineering Physics, KTH Royal Institute of Technology, 2018
 * M.S. in Systems, Control and Robotics, KTH Royal Institute of Technology, 2020 (expected)
 * Visiting Research Student, Computing and Mathematical Sciences, California Institute of Technology, 2019
-  * <sub><sup>Supervisor: Richard M. Murray</sup></sub>
+  * <sub>Supervisor: Richard M. Murray</sub>
 
 Experience
 ======
