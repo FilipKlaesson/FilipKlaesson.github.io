@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2019
+venue: 'Under Review'
+paperurl: 'http://FilipKlaesson.github.io/files/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems.pdf'
+citation:
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Motivated by exploration of communication-constrained underground environments using robot teams, we study the problem of planning for intermittent connectivity in multi-agent systems. We propose a novel concept of information-consistency to handle situations where the plan is not initially known by all agents, and suggest an integer linear program for synthesizing information-consistent plans that also achieve auxiliary goals. Furthermore, inspired by network flow problems we propose a novel way to pose connectivity constraints that scales much better than previous methods. In the second part of the paper we apply these results in an exploration setting, and propose a clustering method that separates a large exploration problem into smaller problems that can be solved independently. We demonstrate how the resulting exploration algorithm is able to coordinate a team of ten agents to explore a large environment.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://FilipKlaesson.github.io/files/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems.pdf)
