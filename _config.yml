@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Filip Klaesson"
 title_separator          : "-"
 name                     : &name "Filip Klaesson"
-description              : &description "Under Construction"
+description              : &description "Personal Academic Website"
 url                      : https://FilipKlaesson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FilipKlaesson/FilipKlaesson.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Filip Klaesson"
-  avatar           : "profile.png"
+  avatar           : "portrait.pdf"
   bio              : "Welcome to my website, it's currently under construction."
-  location         : "Stockholm, Sweden"
+  location         :
   employer         : "KTH Royal Institute of Technology"
   pubmed           :
   googlescholar    :
