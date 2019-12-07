@@ -265,7 +265,7 @@
 .ai.fa-pull-right {
   margin-left: .3em;
 }
-/*  
+/*
  *  Repeat of the FontAwesome style classes to prevent override if academicons.css
  *  is called after font-awesome.css.
  */
@@ -324,4 +324,20 @@
 }
 .fa.fa-pull-right {
   margin-left: .3em;
+}
+
+.news_table table {
+  width: 100%;
+  min-height: 100vh;
+  background: #c4d3f6;
+
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 33px 30px;
 }
