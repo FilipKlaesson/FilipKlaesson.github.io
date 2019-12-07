@@ -1,7 +1,7 @@
 ---
-title: "Mission Autonomy Connectivity Planner"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/icon-NASA.png'>"
+title: "COPS"
+excerpt: "<video class="center" width="400" height="400" controls="controls" autoplay loop><source src="assets/cops.mp4" type="video/mp4" />Your browser does not support embedded video.</video>"
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+COPS: Connectivity Planning Software For Communication Constrained Networks
