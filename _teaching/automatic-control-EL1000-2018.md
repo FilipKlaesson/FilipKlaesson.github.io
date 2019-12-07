@@ -1,10 +1,10 @@
 ---
-title: "EL1000 Automatic Control Lab 2019"
+title: "EL1000 Automatic Control Lab 2018"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-automatic-control-EL1000
+permalink: /teaching/automatic-control-EL1000-2018
 venue: "KTH Royal Institute of Technology, Decision and Control Systems"
-date: 2019-08-01
+date: 2018-08-01
 location: "Stockholm, Sweden"
 ---
 
