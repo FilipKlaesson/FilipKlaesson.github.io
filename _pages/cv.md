@@ -77,7 +77,9 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-    <p>post.authors</p>
+    {% if page.authors %}
+      <p> <i>{{ page.authors }}</i> </p>
+    {% endif %}
   {% endfor %}</ul>
 
 <!---
