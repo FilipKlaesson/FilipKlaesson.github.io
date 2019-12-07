@@ -20,32 +20,32 @@ Education
 Experience
 ======
 
-* Teaching Assistant, 2019
+* KTH, Teaching Assistant, 2019
   * <sub>The Royal Institute of Technology, KTH, Stockholm, Sweden</sub>
   * <sub>Supervisors: Prof. Bo Wahlberg, Prof. Henrik Sandberg</sub>
   * <sub>Laboratory teaching assistant in the Automatic Control course (EL1000).</sub>
 
-* Robotics Researcher, 2019
+* NASA, Robotics Researcher, 2019
   * <sub>Jet Propulsion Laboratory, NASA, Pasadena, California</sub>
   * <sub>Supervisors: Ph.D. Petter Nilsson, Ph.D. Ali Agha, Prof. Richard M. Murray</sub>
   * <sub>Research/development and implementation of [COPS](https://github.com/FilipKlaesson/cops) planning-software in DARPA Subterranean Challenge. Article: Planning and Optimization for Multi-Robot Planetary Cave Exploration under Intermittent Connectivity Constraints, not yet available.</sub>
 
-* Robotics Researcher, 2019
+* Caltech, Robotics Researcher, 2019
   * <sub>California Institute of Technology, Caltech, Pasadena, California</sub>
   * <sub>Supervisors: Ph.D. Petter Nilsson, Prof. Richard M. Murray</sub>
   * <sub>Research in planning for connectivity-constrained multi-agent systems and development of the planning software [COPS](https://github.com/FilipKlaesson/cops). Article: [Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems](http://FilipKlaesson.github.io/publication/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems).</sub>
 
-* Teaching Assistant, 2018
+* KTH, Teaching Assistant, 2018
   * <sub>The Royal Institute of Technology, KTH, Stockholm, Sweden</sub>
   * <sub>Supervisors: Prof. Bo Wahlberg, Prof. Henrik Sandberg</sub>
   * <sub>Laboratory teaching assistant in the Automatic Control course (EL1000).</sub>
 
-* SURF Researcher, 2018
+* Caltech, SURF Researcher, 2018
   * <sub>California Institute of Technology, Caltech, Pasadena, California</sub>
   * <sub>Supervisors: Ph.D. Jin Ge, Prof. Henrik Sandberg, Prof. Richard M. Murray</sub>
   * <sub>Research in applied control theory and robotics. The research covered development and implementation of a control system for autonomous driving on an F1/10 unit.</sub>
 
-* Student Researcher, 2017
+* Zhèdà, Student Researcher, 2017
   * <sub>Zhejiang University, Zhèdà, Hangzhou, China.</sub>
   * <sub>Supervisors: PhD. Jinsheng Lu, Prof. Min Qiu</sub>
   * <sub>Research in the field of nano physics, especially optics. The project resulted in a paper published by the research team: http://ipnp.zju.edu.cn/publication.html nr (215)</sub>
