@@ -1,5 +1,5 @@
 ---
-title: "Laboratory Teaching Assistant"
+title: "EL1000 Automatic Control 2018: Laboratory Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-automatic-control-EL1000
