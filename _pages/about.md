@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Filip Klaesson"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from:
@@ -27,6 +27,7 @@ redirect_from:
 
 ### News
 
-| 2019-11-19 | *Intermittent Connectivity for Exploration in Communication-Constrained <br> Multi-Agent Systems* published on arXiv |
-| 2019-08-30 | I finished my visit at California Institute of Technology and<br>  NASA Jet Propulsion Laboratory                    |
-| 2019-04-27 | Attending Southern California Robotic Symposium at California Institute of Technology                                |
+| 2019-11-19 | *Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems* published on arXiv|
+| 2019-08-30 | Finished my visit at California Institute of Technology and NASA Jet Propulsion Laboratory|
+| 2019-04-27 | Attending Southern California Robotic Symposium at California Institute of Technology|
+| 2019-01-01 | Starting my visiting research position at California Institute of Technology and NASA Jet Propulsion Laboratory|
