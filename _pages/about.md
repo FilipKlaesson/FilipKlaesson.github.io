@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-### About Me
+### Bio
 
 <p>
   I am Filip and I am currently pursuing a M.Sc. in
@@ -25,9 +25,9 @@ redirect_from:
 </p>
 
 
-### News
+### Activities
 
-| 2019-11-19   | *Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems* published on arXiv   |
-| 2019-08-30   | Finished my visit at California Institute of Technology and NASA Jet Propulsion Laboratory   |
-| 2019-04-27   | Attending Southern California Robotic Symposium at California Institute of Technology   |
-| 2019-01-01   | Starting my visiting research position at California Institute of Technology and NASA Jet Propulsion Laboratory   |
+| 2019/11/19  | *Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems* published on arXiv    |
+| 2019/08/30  | Finished my visit at California Institute of Technology and NASA Jet Propulsion Laboratory                         |
+| 2019/04/27  | Attending Southern California Robotic Symposium at California Institute of Technology                              |
+| 2019/01/01  | Starting my visiting research position at California Institute of Technology and NASA Jet Propulsion Laboratory    |
