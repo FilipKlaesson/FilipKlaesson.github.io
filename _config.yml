@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Filip Klaesson"
   avatar           : "portrait.png"
-  bio              : "Welcome to my website, it's currently under construction."
+  bio              : #"Welcome to my website!"
   location         :
   employer         : "KTH Royal Institute of Technology"
   pubmed           :
