@@ -10,5 +10,4 @@ location: "Stockholm, Sweden"
 
 Laboratory teaching assistant in the Automatic Control course EL1000.
 
-[Lab instructions]()
-[Download](http://FilipKlaesson.github.io/EL1000-Lab1-instructions.pdf)
+[Lab 1 instructions](http://FilipKlaesson.github.io/files/EL1000-Lab1-instructions.pdf)
