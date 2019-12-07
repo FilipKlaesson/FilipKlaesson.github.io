@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Filip Klaesson"
 excerpt: ""
 author_profile: true
 redirect_from:
