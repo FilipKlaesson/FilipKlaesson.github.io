@@ -33,7 +33,7 @@ Experience
 * Robotics Researcher, 2019
   * <sub>California Institute of Technology, Caltech, Pasadena, California</sub>
   * <sub>Supervisors: Ph.D. Petter Nilsson, Prof. Richard M. Murray</sub>
-  * <sub>Research in planning for connectivity-constrained multi-agent systems and development of the planning software [COPS](https://github.com/FilipKlaesson/cops). Article: [Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems](https://arxiv.org/abs/1911.08626).</sub>
+  * <sub>Research in planning for connectivity-constrained multi-agent systems and development of the planning software [COPS](https://github.com/FilipKlaesson/cops). Article: [Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems](http://FilipKlaesson.github.io/publication/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems).</sub>
 
 * Teaching Assistant, 2018
   * <sub>The Royal Institute of Technology, KTH, Stockholm, Sweden</sub>
