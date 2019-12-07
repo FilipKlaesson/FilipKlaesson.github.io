@@ -1,6 +1,6 @@
 ---
-title: "COPS"
-excerpt: "Connectivity Planning Software For Communication Constrained Networks 1<br/><img src='/images/icon-NASA.png' width="200">"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
