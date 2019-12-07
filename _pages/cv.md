@@ -104,11 +104,11 @@ Service and leadership
 
 References
 ======
-* Ph.D. Ali Agha
-* Prof. Bo Wahlberg
-* Prof. Henrik Sandberg
-* Ph.D. Jin Ge
-* PhD. Jinsheng Lu
-* Prof. Min Qiu
-* Ph.D. Petter Nilsson
-* Prof. Richard M. Murray
+* [Ph.D. Ali Agha](https://www-robotics.jpl.nasa.gov/people/Ali_Agha/personFull.cfm)
+* [Prof. Bo Wahlberg](https://people.kth.se/~bo/)
+* [Prof. Henrik Sandberg](https://people.kth.se/~hsan/)
+* [Ph.D. Jin Ge](https://www.linkedin.com/in/jin-ge-5445486a/)
+* [PhD. Jinsheng Lu](https://www.linkedin.com/in/jinsheng-lu-569513139/?locale=en_US)
+* [Prof. Min Qiu](https://www.researchgate.net/profile/Min_Qiu4)
+* [Ph.D. Petter Nilsson](https://pettni.github.io/#/)
+* [Prof. Richard M. Murray](http://www.cds.caltech.edu/~murray/wiki/Main_Page)
