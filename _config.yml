@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Filip Klaesson"
   avatar           : "portrait.png"
-  bio              : #"Welcome to my website!"
+  bio              : " " #"Welcome to my website!"
   location         :
   employer         : "KTH Royal Institute of Technology"
   pubmed           :
