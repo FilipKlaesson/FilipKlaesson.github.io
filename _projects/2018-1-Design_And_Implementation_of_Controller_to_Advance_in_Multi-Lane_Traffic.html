@@ -1,18 +1,27 @@
 ---
 title: "Autonomous lane change of an F1/10 unit"
+date: 2018
 excerpt: "Design and implementation of controller to advance in multi-lane traffic <br/><img src='/images/f110.png' width='300'>"
 collection: projects
 ---
 
 
 <p>
+  This research project was a part of the SURF research program at <a href="https://www.caltech.edu/" target="_blank">California Institute of Technology</a>.
+  In this work we focus on implementation of localization and control systems of an F1/10 unit in order to perform autonomous driving in multi-lane traffic.
+  We use lidar data in order to map and localize in the environment using SLAM. For this purpose we used the ROS package <a href="http://wiki.ros.org/hector_slam" target="_blank">Hector Slam</a>.
+  The map generated online is illustrated in the video below.
 </p>
 
 <video class="center" width="500" height="500" controls="controls" autoplay loop>
   <source src="/images/slam.mp4" type="video/mp4" />
   Your browser does not support embedded video.
 </video>
+
 <p>
+  In order to achive obstacle avoidance we use fixed motion primitives to generate a trajectory.
+  The generated trajectory is tracked using a PD-controller.
+  The video below shows the F1/10 unit avoiding an obstacle in order to advance.
 </p>
 
 <video class="center" width="500" height="500" controls="controls" autoplay loop>
@@ -23,7 +32,7 @@ collection: projects
 </p>
 
 <p>
-  The methods and implementations in this work are presented in the paper
+  The work is presented in the paper
   <a href="http://FilipKlaesson.github.io/files/Design_And_Implementation_Of_a_Controller_ToAdvance_In_Multi_Lane_Traffic_Similar_To_Human_Behavior_Using_Control_Improvisation.pdf" target="_blank">Design and implementation of a controller to advance in multi-lane traffic similar to human behavior using control improvisation</a>.
   The research was conducted at <a href="https://www.caltech.edu/" target="_blank">California Institute of Technology</a>.
 </p>
