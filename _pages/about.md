@@ -11,7 +11,7 @@ redirect_from:
 ### Bio
 
 <p>
-  I am Filip and I am currently pursuing a M.Sc. in
+  I am Filip and I am currently pursuing a M.S. in
   <a href="https://www.kth.se/en/studies/master/systems-control-robotics/description-1.8733">Systems, Control and Robotics</a>
   at <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm Sweden.
   During the past year I was a visiting research student at
@@ -21,7 +21,7 @@ redirect_from:
   I also conducted research at <a href="https://www.jpl.nasa.gov/">NASA Jet Propulsion Laboratory</a>, as a member of
   <a href="https://costar.jpl.nasa.gov/">Team Costar</a> in the
   <a href="https://www.subtchallenge.com/">Darpa Subterranean Challenge</a>.
-  My research mainly focused on multi-agent coordination in communication constrained networks.
+  My research mainly focused on multi-agent coordination in communication-constrained networks.
 </p>
 
 <hr>
