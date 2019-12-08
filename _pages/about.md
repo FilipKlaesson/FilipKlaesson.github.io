@@ -17,7 +17,7 @@ redirect_from:
   During the past year I was a visiting research student at
   <a href="https://www.caltech.edu/">California Institute of Technology</a>, supervised by Professor
   <a href="http://www.cds.caltech.edu/~murray/wiki/Main_Page">Richard M. Murray</a>
-  and Postdoc <a href="http://www.its.caltech.edu/~lnilsson/#/">Petter Nilsson</a>.
+  and Ph.D. <a href="http://www.its.caltech.edu/~lnilsson/#/">Petter Nilsson</a>.
   I also conducted research at <a href="https://www.jpl.nasa.gov/">NASA Jet Propulsion Laboratory</a>, as a member of
   <a href="https://costar.jpl.nasa.gov/">Team Costar</a> in the
   <a href="https://www.subtchallenge.com/">Darpa Subterranean Challenge</a>.
