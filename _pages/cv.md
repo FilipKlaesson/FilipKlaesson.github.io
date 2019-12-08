@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<hr size="30">
+<hr>
 
 Education
 ======
@@ -19,7 +19,7 @@ Education
   * <sub>Supervisor: Prof. Richard M. Murray</sub>
 * B.S. in Engineering Physics, KTH Royal Institute of Technology, 2018
 
-<hr size="30">
+<hr>
 
 Experience
 ======
@@ -54,7 +54,7 @@ Experience
   * <sub>Supervisors: PhD. Jinsheng Lu, Prof. Min Qiu</sub>
   * <sub>Research in the field of nano physics, especially optics. The project resulted in a paper published by the research team: http://ipnp.zju.edu.cn/publication.html nr (215)</sub>
 
-<hr size="30">
+<hr>
 
 Technical Skills
 ======
@@ -79,7 +79,7 @@ Technical Skills
 * Licenses
   * <sub>Swedish drivers licence B</sub>
 
-<hr size="30">
+<hr>
 
 Publications
 ======
@@ -98,7 +98,7 @@ Talks
   {% endfor %}</ul>
 -->
 
-<hr size="30">
+<hr>
 
 Teaching
 ======
@@ -112,7 +112,7 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 -->
 
-<hr size="30">
+<hr>
 
 References
 ======
