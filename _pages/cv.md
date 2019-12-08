@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<hr size="30">
+
 Education
 ======
 
@@ -16,6 +18,8 @@ Education
 * Visiting Research Student, Computing and Mathematical Sciences, California Institute of Technology, 2019
   * <sub>Supervisor: Prof. Richard M. Murray</sub>
 * B.S. in Engineering Physics, KTH Royal Institute of Technology, 2018
+
+<hr size="30">
 
 Experience
 ======
@@ -50,6 +54,8 @@ Experience
   * <sub>Supervisors: PhD. Jinsheng Lu, Prof. Min Qiu</sub>
   * <sub>Research in the field of nano physics, especially optics. The project resulted in a paper published by the research team: http://ipnp.zju.edu.cn/publication.html nr (215)</sub>
 
+<hr size="30">
+
 Technical Skills
 ======
 * Programming Languages
@@ -73,6 +79,8 @@ Technical Skills
 * Licenses
   * <sub>Swedish drivers licence B</sub>
 
+<hr size="30">
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -90,6 +98,8 @@ Talks
   {% endfor %}</ul>
 -->
 
+<hr size="30">
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -101,6 +111,8 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
+
+<hr size="30">
 
 References
 ======
