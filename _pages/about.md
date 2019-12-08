@@ -24,6 +24,7 @@ redirect_from:
   My research mainly focused on multi-agent coordination in communication constrained networks.
 </p>
 
+<hr size="30">
 
 ### Activities
 
