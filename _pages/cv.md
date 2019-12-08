@@ -56,7 +56,7 @@ Experience
 
 <hr>
 
-Technical Skills
+Skills
 ======
 * Programming Languages
   * <sub>Python</sub>
