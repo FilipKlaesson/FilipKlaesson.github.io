@@ -30,5 +30,5 @@ redirect_from:
 
 | 2019/11/19  | Our paper [Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems](http://FilipKlaesson.github.io/publication/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems) published on arXiv.                         |
 | 2019/08/30  | Finished my visit at California Institute of Technology and NASA Jet Propulsion Laboratory.                             |
-  | 2019/04/27  | Attending [Southern California Robotic Symposium](http://scr2019.caltech.edu/) at California Institute of Technology. |
+| 2019/04/27  | Attending [Southern California Robotic Symposium](http://scr2019.caltech.edu/) at California Institute of Technology. |
 | 2019/01/01  | Starting my visiting research position at California Institute of Technology and NASA Jet Propulsion Laboratory.        |
