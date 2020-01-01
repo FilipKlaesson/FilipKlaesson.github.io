@@ -28,7 +28,7 @@ redirect_from:
 
 ### Activities
 
-| 2019/12/23  | Our paper [Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems](http://FilipKlaesson.github.io/publication/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems) accepted to [ICCPS 2020](http://iccps.acm.org/2020/).|
+| 2019/12/23  | The paper [Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems](http://FilipKlaesson.github.io/publication/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems) with Petter Nilsson, Aaron D. Ames and Richard M. Murray on multi-agent coordination under limit communication accepted to [ICCPS](http://iccps.acm.org/2020/).|
 | 2019/11/19  | Our paper [Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems](http://FilipKlaesson.github.io/publication/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems) published on arXiv.|
 | 2019/08/30  | Finished my visit at California Institute of Technology and NASA Jet Propulsion Laboratory.|
 | 2019/04/27  | Attending [Southern California Robotic Symposium](http://scr2019.caltech.edu/) at California Institute of Technology.|
