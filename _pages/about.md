@@ -11,7 +11,7 @@ redirect_from:
 ### Bio
 
 <p>
-  I am Filip and I'm a visiting researcher at <a href="https://www.seas.harvard.edu/">Harvard University</a> supervised by Professor
+  I am Filip and I am a visiting researcher at <a href="https://www.seas.harvard.edu/">Harvard University</a> supervised by Professor
   <a href="https://nali.seas.harvard.edu/">Na Li</a> working on distributed zero-order optimization for networked systems.
   I am pursuing a M.S. in <a href="https://www.kth.se/en/studies/master/systems-control-robotics/description-1.8733">Systems, Control and Robotics</a>
   at <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm Sweden.
