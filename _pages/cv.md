@@ -15,6 +15,7 @@ Education
 ======
 
 * M.S. in Systems, Control and Robotics, KTH Royal Institute of Technology, 2020 (expected)
+  * <sub>Supervisors: Prof. Karl Henrik Johansson, Prof. Henrik Sandberg </sub>
 * Visiting Researcher, School of Engineering and Applied Sciences, Harvard University, 2020 (ongoing)
   * <sub>Supervisor: Prof. Na Li</sub>
 * Visiting Researcher, Computing and Mathematical Sciences, California Institute of Technology, 2019
@@ -28,7 +29,7 @@ Experience
 
 * Harvard, Researcher, 2020 (ongoing)
   * <sub>Harvard University, Boston, Massachusetts</sub>
-  * <sub>Supervisors: Prof. Na Li, Prof. Karl Henrik Johansson, Prof. Henrik Sandberg </sub>
+  * <sub>Supervisors: Prof. Na Li </sub>
   * <sub>Research on zero-order distributed optimization for networked systems.</sub>
 
 * KTH, Teaching Assistant, 2019
