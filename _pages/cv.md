@@ -58,7 +58,7 @@ Experience
 
 * Zhèdà, Student Researcher, 2017
   * <sub>Zhejiang University, Zhèdà, Hangzhou, China.</sub>
-  * <sub>Supervisors: PhD. Jinsheng Lu, Prof. Min Qiu</sub>
+  * <sub>Supervisors: Prof. Min Qiu</sub>
   * <sub>Research in the field of nano physics, especially optics. The project resulted in a paper published by the research team: http://ipnp.zju.edu.cn/publication.html nr (215)</sub>
 
 <hr>
@@ -128,7 +128,6 @@ References
 * [Bo Wahlberg](https://people.kth.se/~bo/), KTH Royal Institute of Technology
 * [Henrik Sandberg](https://people.kth.se/~hsan/), KTH Royal Institute of Technology
 * [Jin Ge](https://www.linkedin.com/in/jin-ge-5445486a/), Toyota Research Institute
-* [Jinsheng Lu](https://www.linkedin.com/in/jinsheng-lu-569513139/?locale=en_US), Zhejiang University
 * [Min Qiu](https://www.researchgate.net/profile/Min_Qiu4), Zhejiang University
 * [Na Li](https://nali.seas.harvard.edu/), Harvard University
 * [Petter Nilsson](https://pettni.github.io/#/), California Institute of Technology
