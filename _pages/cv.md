@@ -28,7 +28,7 @@ Experience
 
 * Harvard, Researcher, 2020 (ongoing)
   * <sub>Harvard University, Boston, Massachusetts</sub>
-  * <sub>Supervisor: Prof. Na Li, Prof. Karl Henrik Johansson, Prof. Henrik Sandberg</sub>
+  * <sub>Supervisor: Prof. Na Li (Prof. Karl Henrik Johansson, Prof. Henrik Sandberg)</sub>
   * <sub>Research on zero-order distributed optimization for networked systems.</sub>
 
 * KTH, Teaching Assistant, 2019
