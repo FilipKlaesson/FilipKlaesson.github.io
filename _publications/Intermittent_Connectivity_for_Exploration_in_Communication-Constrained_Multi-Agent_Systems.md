@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems
 excerpt: ''
 date: '2019-11-19'
-venue: 'Accepted to ICCPS 2020'
+venue: 'ICCPS 2020'
 paperurl: 'http://FilipKlaesson.github.io/files/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems.pdf'
 citation:
 ---
