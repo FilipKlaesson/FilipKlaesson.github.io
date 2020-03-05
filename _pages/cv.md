@@ -29,7 +29,7 @@ Experience
 * Harvard, Researcher, 2020 (ongoing)
   * <sub>Harvard University, Boston, Massachusetts</sub>
   * <sub>Supervisor: Prof. Na Li</sub>
-  * <sub>Research in zero-order distributed optimization for networked systems.</sub>
+  * <sub>Research on zero-order distributed optimization for networked systems.</sub>
 
 * KTH, Teaching Assistant, 2019
   * <sub>The Royal Institute of Technology, KTH, Stockholm, Sweden</sub>

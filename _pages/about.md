@@ -11,8 +11,9 @@ redirect_from:
 ### Bio
 
 <p>
-  I am Filip and I am currently pursuing a M.S. in
-  <a href="https://www.kth.se/en/studies/master/systems-control-robotics/description-1.8733">Systems, Control and Robotics</a>
+  I am Filip and I'm a visiting researcher at <a href="https://www.seas.harvard.edu/">Harvard University</a> supervised by Professor
+  <a href="https://nali.seas.harvard.edu/">Na Li</a> working on distributed zero-order optimization for networked systems.
+  I am pursuing a M.S. in <a href="https://www.kth.se/en/studies/master/systems-control-robotics/description-1.8733">Systems, Control and Robotics</a>
   at <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm Sweden.
   During the past year I was a visiting research student at
   <a href="https://www.caltech.edu/">California Institute of Technology</a>, supervised by Professor
@@ -21,13 +22,13 @@ redirect_from:
   I also conducted research at <a href="https://www.jpl.nasa.gov/">NASA Jet Propulsion Laboratory</a>, as a member of
   <a href="https://costar.jpl.nasa.gov/">Team Costar</a> in the
   <a href="https://www.subtchallenge.com/">Darpa Subterranean Challenge</a>.
-  My research mainly focused on multi-agent coordination in communication-constrained networks.
 </p>
 
 <hr>
 
 ### Activities
-
+| 2020/03/01  | Started my visiting research position at Harvard University supervised by Professor
+<a href="https://nali.seas.harvard.edu/">Na Li</a> |
 | 2019/12/23  | The paper [Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems](http://FilipKlaesson.github.io/publication/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems) with Petter Nilsson, Aaron D. Ames and Richard M. Murray on multi-agent coordination under limit communication accepted to [ICCPS](http://iccps.acm.org/2020/).|
 | 2019/11/19  | Our paper [Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems](http://FilipKlaesson.github.io/publication/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems) published on arXiv.|
 | 2019/08/30  | Finished my visit at California Institute of Technology and NASA Jet Propulsion Laboratory.|
