@@ -15,7 +15,9 @@ Education
 ======
 
 * M.S. in Systems, Control and Robotics, KTH Royal Institute of Technology, 2020 (expected)
-* Visiting Research Student, Computing and Mathematical Sciences, California Institute of Technology, 2019
+* Visiting Researcher, School of Engineering and Applied Sciences, Harvard University, 2020 (ongoing)
+  * <sub>Supervisor: Prof. Na Li</sub>
+* Visiting Researcher, Computing and Mathematical Sciences, California Institute of Technology, 2019
   * <sub>Supervisor: Prof. Richard M. Murray</sub>
 * B.S. in Engineering Physics, KTH Royal Institute of Technology, 2018
 
@@ -23,6 +25,11 @@ Education
 
 Experience
 ======
+
+* Harvard, Researcher, 2020 (ongoing)
+  * <sub>Harvard University, Boston, Massachusetts</sub>
+  * <sub>Supervisor: Prof. Na Li</sub>
+  * <sub>Research in zero-order distributed optimization for networked systems.</sub>
 
 * KTH, Teaching Assistant, 2019
   * <sub>The Royal Institute of Technology, KTH, Stockholm, Sweden</sub>
