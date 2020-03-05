@@ -130,5 +130,6 @@ References
 * [Jin Ge](https://www.linkedin.com/in/jin-ge-5445486a/), Toyota Research Institute
 * [Jinsheng Lu](https://www.linkedin.com/in/jinsheng-lu-569513139/?locale=en_US), Zhejiang University
 * [Min Qiu](https://www.researchgate.net/profile/Min_Qiu4), Zhejiang University
+* [Na Li](https://nali.seas.harvard.edu/), Harvard University
 * [Petter Nilsson](https://pettni.github.io/#/), California Institute of Technology
 * [Richard M. Murray](http://www.cds.caltech.edu/~murray/wiki/Main_Page), California Institute of Technology
