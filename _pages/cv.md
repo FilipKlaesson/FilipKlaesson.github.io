@@ -28,7 +28,7 @@ Experience
 
 * Harvard, Researcher, 2020 (ongoing)
   * <sub>Harvard University, Boston, Massachusetts</sub>
-  * <sub>Supervisor: Prof. Na Li</sub>
+  * <sub>Supervisor: Prof. Na Li, Prof. Karl Henrik Johansson, Prof. Henrik Sandberg</sub>
   * <sub>Research on zero-order distributed optimization for networked systems.</sub>
 
 * KTH, Teaching Assistant, 2019
@@ -128,6 +128,7 @@ References
 * [Bo Wahlberg](https://people.kth.se/~bo/), KTH Royal Institute of Technology
 * [Henrik Sandberg](https://people.kth.se/~hsan/), KTH Royal Institute of Technology
 * [Jin Ge](https://www.linkedin.com/in/jin-ge-5445486a/), Toyota Research Institute
+* [Karl Henrik Johansson](https://people.kth.se/~kallej/), KTH Royal Institute of Technology
 * [Min Qiu](https://www.researchgate.net/profile/Min_Qiu4), Zhejiang University
 * [Na Li](https://nali.seas.harvard.edu/), Harvard University
 * [Petter Nilsson](https://pettni.github.io/#/), California Institute of Technology
