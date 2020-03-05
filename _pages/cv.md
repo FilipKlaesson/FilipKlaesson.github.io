@@ -28,7 +28,7 @@ Experience
 
 * Harvard, Researcher, 2020 (ongoing)
   * <sub>Harvard University, Boston, Massachusetts</sub>
-  * <sub>Supervisor: Prof. Na Li, Prof. Karl Henrik Johansson, Prof. Henrik Sandberg </sub>
+  * <sub>Supervisors: Prof. Na Li, Prof. Karl Henrik Johansson, Prof. Henrik Sandberg </sub>
   * <sub>Research on zero-order distributed optimization for networked systems.</sub>
 
 * KTH, Teaching Assistant, 2019
@@ -58,7 +58,7 @@ Experience
 
 * Zhèdà, Student Researcher, 2017
   * <sub>Zhejiang University, Zhèdà, Hangzhou, China.</sub>
-  * <sub>Supervisors: Prof. Min Qiu</sub>
+  * <sub>Supervisor: Prof. Min Qiu</sub>
   * <sub>Research in the field of nano physics, especially optics. The project resulted in a paper published by the research team: http://ipnp.zju.edu.cn/publication.html nr (215)</sub>
 
 <hr>
