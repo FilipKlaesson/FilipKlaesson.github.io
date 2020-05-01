@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-### About Me
+### Welcome!
 
 <p>
   I am Filip and I am a visiting researcher at <a href="https://www.seas.harvard.edu/">Harvard University</a> supervised by Professor
