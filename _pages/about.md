@@ -28,6 +28,8 @@ redirect_from:
 
 ### Activities
 
+| 2020/05/01  | Released <a href="https://github.com/FilipKlaesson/dbo/">dbo</a>, a compact python software for distributed bayesian optimization. |
+| 2020/04/22  | Attending (virtually) [ICCPS](http://iccps.acm.org/2020/) and presenting our paper [Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems](http://FilipKlaesson.github.io/publication/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems). Presentation is available [here](https://www.youtube.com/watch?v=yWw7tH-_9Pg).|
 | 2020/03/01  | Started my visiting research position at <a href="https://www.seas.harvard.edu/">Harvard University</a> supervised by Professor <a href="https://nali.seas.harvard.edu/">Na Li</a>.|
 | 2019/12/23  | The paper [Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems](http://FilipKlaesson.github.io/publication/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems) with Petter Nilsson, Aaron D. Ames and Richard M. Murray on multi-agent coordination under limit communication accepted to [ICCPS](http://iccps.acm.org/2020/).|
 | 2019/11/19  | Our paper [Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems](http://FilipKlaesson.github.io/publication/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems) published on arXiv.|
