@@ -40,7 +40,7 @@ Experience
 * NASA, Robotics Researcher, 2019
   * <sub>Jet Propulsion Laboratory, NASA, Pasadena, California</sub>
   * <sub>Supervisors: Ph.D. Petter Nilsson, Ph.D. Ali Agha, Prof. Richard M. Murray</sub>
-  * <sub>Research/development and implementation of [COPS](https://github.com/FilipKlaesson/cops) planning-software in DARPA Subterranean Challenge. Article: Planning and Optimization for Multi-Robot Planetary Cave Exploration under Intermittent Connectivity Constraints, not yet available.</sub>
+  * <sub>Research/development and implementation of [COPS](https://github.com/FilipKlaesson/cops) planning-software in DARPA Subterranean Challenge. Article: [Planning and Optimization for Multi-Robot Planetary Cave Exploration under Intermittent Connectivity Constraints](http://FilipKlaesson.github.io/publication/Planning_and_Optimization_for_Multi-Robot_Planetary_Cave_Exploration_under_Intermittent_Connectivity_Constraints).</sub>
 
 * Caltech, Robotics Researcher, 2019
   * <sub>California Institute of Technology, Caltech, Pasadena, California</sub>
