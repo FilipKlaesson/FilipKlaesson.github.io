@@ -4,8 +4,8 @@ authors: Filip Klaesson, Petter Nilsson, Aaron D. Ames and Richard M. Murray
 collection: publications
 permalink: /publication/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems
 excerpt: ''
-date: '2019-11-19'
-venue: 'ICCPS 2020'
+date: '2020-04-22'
+venue: 'ICCPS'
 paperurl: 'http://FilipKlaesson.github.io/files/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems.pdf'
 citation:
 ---

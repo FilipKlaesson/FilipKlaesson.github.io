@@ -4,8 +4,8 @@ authors: Filip Klaesson, Petter Nilsson, Tiago Stegun Vaquero, Scott Tepsuporn, 
 collection: publications
 permalink: /publication/Planning_and_Optimization_for_Multi-Robot_Planetary_Cave_Exploration_under_Intermittent_Connectivity_Constraints
 excerpt: ''
-date: '2019-11-19'
-venue: 'ICAPS 2020 Workshop on Planning and Robotics'
+date: '2020-10-22'
+venue: 'ICAPS Workshop on Planning and Robotics'
 paperurl: 'http://FilipKlaesson.github.io/files/Planning_and_Optimization_for_Multi-Robot_Planetary_Cave_Exploration_under_Intermittent_Connectivity_Constraints.pdf'
 citation:
 ---
