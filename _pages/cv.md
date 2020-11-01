@@ -29,12 +29,12 @@ Experience
 
 * Saab, Software Engineer, 2020 (ongoing)
   * <sub>Saab AB Surveillance, Stockholm, Järfälla</sub>
-  * <sub>Supervisors: Joakim Ekblad </sub>
+  * <sub>Supervisor: Joakim Ekblad </sub>
   * <sub> Software and system development in the surveillance business area focusing on artificial intelligence for surveillance applications. </sub>
 
 * Harvard, Researcher, 2020
   * <sub>Harvard University, Boston, Massachusetts</sub>
-  * <sub>Supervisors: Prof. Na Li </sub>
+  * <sub>Supervisor: Prof. Na Li </sub>
   * <sub>Research on zero-order distributed optimization for networked systems.</sub>
 
 * KTH, Teaching Assistant, 2019
