@@ -11,7 +11,7 @@ redirect_from:
 ### Welcome!
 
 <p>
-  I am Filip and I am a software and systems engineer at <a href="https://www.saab.com/">Saab AB</a> working on system development and artificial intelligence in surveillance applications. I have a M.S. in <a href="https://www.kth.se/en/studies/master/systems-control-robotics/description-1.8733">Systems, Control and Robotics</a>
+  I am Filip and I am a software and systems engineer at <a href="https://www.saab.com/">Saab AB</a> working on system development and artificial intelligence for surveillance applications. I have a M.S. in <a href="https://www.kth.se/en/studies/master/systems-control-robotics/description-1.8733">Systems, Control and Robotics</a>
   at <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a>, Stockholm Sweden.
   During the past years I was a visiting research student at <a href="https://www.seas.harvard.edu/">Harvard University</a> supervised by Professor
   <a href="https://nali.seas.harvard.edu/">Na Li</a> working on distributed bayesian optimization for multi-agent systems, and <a href="https://www.caltech.edu/">California Institute of Technology</a>, supervised by Prof.
