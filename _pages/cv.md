@@ -130,14 +130,9 @@ Service and leadership
 
 References
 ======
-* [Aaron D. Ames](http://ames.caltech.edu/), California Institute of Technology
-* [Ali Agha](https://www-robotics.jpl.nasa.gov/people/Ali_Agha/personFull.cfm), NASA Jet Propulsion Laboratory
-* [Bo Wahlberg](https://people.kth.se/~bo/), KTH Royal Institute of Technology
 * [Henrik Sandberg](https://people.kth.se/~hsan/), KTH Royal Institute of Technology
-* [Jin Ge](https://www.linkedin.com/in/jin-ge-5445486a/), Toyota Research Institute
 * [Joakim Ekblad](https://www.linkedin.com/in/joakim-ekblad/?originalSubdomain=se), Saab AB Surveillance
 * [Karl Henrik Johansson](https://people.kth.se/~kallej/), KTH Royal Institute of Technology
-* [Min Qiu](https://www.researchgate.net/profile/Min_Qiu4), Zhejiang University
 * [Na Li](https://nali.seas.harvard.edu/), Harvard University
 * [Petter Nilsson](https://pettni.github.io/#/), California Institute of Technology
 * [Richard M. Murray](http://www.cds.caltech.edu/~murray/wiki/Main_Page), California Institute of Technology
