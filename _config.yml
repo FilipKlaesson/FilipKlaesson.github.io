@@ -83,7 +83,7 @@ author:
   name             : "Filip Klaesson"
   avatar           : "portrait.png"
   bio              : " " #"Welcome to my website!"
-  location         : "Stockholm, Sweden"
+  location         :
   employer         : "Saab AB Surveillance"
   pubmed           :
   googlescholar    :
