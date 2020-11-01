@@ -27,7 +27,12 @@ Education
 Experience
 ======
 
-* Harvard, Researcher, 2020 (ongoing)
+* Saab, Software Engineer, 2020 (ongoing)
+  * <sub>Saab AB Surveillance, Stockholm, Järfälla</sub>
+  * <sub>Supervisors: Joakim Ekblad </sub>
+  * <sub> Software and system development in the surveillance business area focusing on artificial intelligence for surveillance applications. </sub>
+
+* Harvard, Researcher, 2020
   * <sub>Harvard University, Boston, Massachusetts</sub>
   * <sub>Supervisors: Prof. Na Li </sub>
   * <sub>Research on zero-order distributed optimization for networked systems.</sub>
@@ -74,6 +79,7 @@ Skills
   * <sub>YALMIP</sub>
   * <sub>LaTeX</sub>
 * Software Skills
+  * <sub>Linux</sub>
   * <sub>ROS</sub>
   * <sub>Simulink</sub>
   * <sub>Gurobi Optimizer</sub>
@@ -129,6 +135,7 @@ References
 * [Bo Wahlberg](https://people.kth.se/~bo/), KTH Royal Institute of Technology
 * [Henrik Sandberg](https://people.kth.se/~hsan/), KTH Royal Institute of Technology
 * [Jin Ge](https://www.linkedin.com/in/jin-ge-5445486a/), Toyota Research Institute
+* [Joakim Ekblad](https://www.linkedin.com/in/joakim-ekblad/?originalSubdomain=se), Saab AB Surveillance
 * [Karl Henrik Johansson](https://people.kth.se/~kallej/), KTH Royal Institute of Technology
 * [Min Qiu](https://www.researchgate.net/profile/Min_Qiu4), Zhejiang University
 * [Na Li](https://nali.seas.harvard.edu/), Harvard University
