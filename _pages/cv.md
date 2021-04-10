@@ -14,9 +14,9 @@ redirect_from:
 Education
 ======
 
-* M.S. in Systems, Control and Robotics, KTH Royal Institute of Technology, 2020 (expected)
+* M.S. in Systems, Control and Robotics, KTH Royal Institute of Technology, 2020
   * <sub>Supervisors: Prof. Karl Henrik Johansson, Prof. Henrik Sandberg </sub>
-* Visiting Researcher, School of Engineering and Applied Sciences, Harvard University, 2020 (ongoing)
+* Visiting Researcher, School of Engineering and Applied Sciences, Harvard University, 2020
   * <sub>Supervisor: Prof. Na Li</sub>
 * Visiting Researcher, Computing and Mathematical Sciences, California Institute of Technology, 2019
   * <sub>Supervisor: Prof. Richard M. Murray</sub>
@@ -27,7 +27,7 @@ Education
 Experience
 ======
 
-* Saab, Software Engineer, 2020 (ongoing)
+* Saab, Software Engineer, 2020 - 2021 (ongoing)
   * <sub>Saab AB Surveillance, Stockholm, Järfälla</sub>
   * <sub>Supervisor: Joakim Ekblad </sub>
   * <sub> Software and system development in the surveillance business area focusing on artificial intelligence for surveillance applications. </sub>
@@ -75,11 +75,16 @@ Skills
   * <sub>Python</sub>
   * <sub>Matlab</sub>
   * <sub>Java</sub>
+  * <sub>Javascript/REACT (basic)</sub>
   * <sub>C++ (basic)</sub>
-  * <sub>YALMIP</sub>
   * <sub>LaTeX</sub>
 * Software Skills
   * <sub>Linux</sub>
+  * <sub>Git</sub>
+  * <sub>Kubernetes</sub>
+  * <sub>Helm</sub>
+  * <sub>Jenkins</sub>
+  * <sub>Tekton</sub>
   * <sub>ROS</sub>
   * <sub>Simulink</sub>
   * <sub>Gurobi Optimizer</sub>
