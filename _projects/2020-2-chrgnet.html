@@ -1,0 +1,33 @@
+---
+title: "Chrgnet"
+year: "2020"
+excerpt: "Distributed Bayesian Optimization in Multi-Agent Systems<br/><img src='/images/chrgnet_pressure_level.png' width='300'>"
+collection: projects
+---
+
+<p>
+  Chrgnet is a micro-service application that analyze and predicts behaviours of electric vechicle charinging stations.
+  Chrgnet scrapes live data from charging stations and produce prediction models based on time-series analysis and artifical intelligence
+  to analyze the pressure of stations based on spatio-temporal features. Chrgnet offers features such as:
+  <ul>
+    <li>Pressure prediction via time-series analysis and autoencoders</li>
+    <li>Price optimization via integer linear programming optimization</li>
+  </ul>
+</p>
+Chrgnet utilize a hexagonal hierarchical spatial index to partitioning the Earth's surface into hexagonal cells 
+inorder to efficiently search in geo-spatial data. The figure below shows charging stations in the south of Sweden 
+togheter their hexagonal grid cells.
+<img src='/images/chrgnet_pressure_level.png' width='400'>
+
+
+<p>
+  Using time-series analysis and autoencoders, the pressure level on charging stations is predicted. The pressure forecasting models 
+  are used for prize optimization using integer linear programming optimization. The figure below demonstrates the pressure level 
+  at charging stations in the south of Sweden. The color of each cell indicates the utilization of charging stations in the area.
+</p>
+<img src='/images/chrgnet_stations.png' width='400'>
+
+<p>
+  Chrgnet is build using a CI/CD pipeline including Jenkins, Helm and Kubernetes.
+</p>
+<img src='/images/jenkins_helm_kubernetes.png' width='400'>
