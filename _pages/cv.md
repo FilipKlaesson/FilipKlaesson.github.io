@@ -16,7 +16,7 @@ Experience
 
 * Team Lead & System Architect, 2021 - 2022
   * <sub>Saab AB, Stockholm, Sweden</sub>
-  * <sub>Saab AB I managed a team responsible for developing an automated adaptable data mesh used to store and serve sensor data in a data fusion platform. Along with guiding the team, I focused on architectural system design and development. The role also included customer relations and requirement definition.</sub>
+  * <sub>I managed a team responsible for developing an automated adaptable data mesh used to store and serve sensor data in a data fusion platform. Along with guiding the team, I focused on architectural system design and development. The role also included customer relations and requirement definition.</sub>
 
 * Data Scientist & Software Developer, 2020 - 2021
   * <sub>Saab AB, Stockholm, Sweden</sub>
@@ -38,7 +38,7 @@ Experience
   * <sub>I researched on optimization-based planning for connectivity-constrained multi-agent systems. The planning algorithm developed was implemented and released in the python package [COPS](https://github.com/FilipKlaesson/cops).</sub>
 
 * Teaching Assistant, 2018 - 2019
-  * <sub>The Royal Institute of Technology, KTH, Stockholm, Sweden</sub>
+  * <sub>The Royal Institute of Technology, Stockholm, Sweden</sub>
   * <sub>Supervisors: Prof. Bo Wahlberg, Prof. Henrik Sandberg</sub>
   * <sub>I assisted and guided groups of students in automatic control labs.</sub>
 
@@ -57,13 +57,18 @@ Experience
 Education
 ======
 
-* Researcher, School of Engineering and Applied Sciences, Harvard University, 2020
+* Researcher, 2020
+  * <sub>School of Engineering and Applied Sciences, Harvard University</sub>
   * <sub>Supervisor: Prof. Na Li</sub>
-* M.S. in Systems, Control and Robotics, KTH Royal Institute of Technology, 2020
+* M.S. in Systems, Control and Robotics, 2020
+  * <sub>The Royal Institute of Technology</sub>
   * <sub>Supervisors: Prof. Karl Henrik Johansson, Prof. Henrik Sandberg </sub>
-* Researcher, Computing and Mathematical Sciences, California Institute of Technology, 2019
+* Researcher, 2019
+  * <sub>Computing and Mathematical Sciences, California Institute of Technology</sub>
   * <sub>Supervisor: Prof. Richard M. Murray</sub>
-* B.S. in Engineering Physics, KTH Royal Institute of Technology, 2018
+* B.S. in Engineering Physics, 2018
+  * <sub>The Royal Institute of Technology</sub>
+
 
 <hr>
 
