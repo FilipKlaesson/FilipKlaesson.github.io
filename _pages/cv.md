@@ -11,92 +11,59 @@ redirect_from:
 
 <hr>
 
-Education
-======
-
-* M.S. in Systems, Control and Robotics, KTH Royal Institute of Technology, 2020
-  * <sub>Supervisors: Prof. Karl Henrik Johansson, Prof. Henrik Sandberg </sub>
-* Visiting Researcher, School of Engineering and Applied Sciences, Harvard University, 2020
-  * <sub>Supervisor: Prof. Na Li</sub>
-* Visiting Researcher, Computing and Mathematical Sciences, California Institute of Technology, 2019
-  * <sub>Supervisor: Prof. Richard M. Murray</sub>
-* B.S. in Engineering Physics, KTH Royal Institute of Technology, 2018
-
-<hr>
-
 Experience
 ======
 
-* Saab, Software Engineer, 2020 - 2021 (ongoing)
-  * <sub>Saab AB Surveillance, Stockholm, Järfälla</sub>
-  * <sub>Supervisor: Joakim Ekblad </sub>
-  * <sub> Software and system development in the surveillance business area focusing on artificial intelligence for surveillance applications. </sub>
+* Team Lead & System Architect, 2021 - 2022
+  * <sub>Saab AB, Stockholm, Sweden</sub>
+  * <sub>Saab AB I managed a team responsible for developing an automated adaptable data mesh used to store and serve sensor data in a data fusion platform. Along with guiding the team, I focused on architectural system design and development. The role also included customer relations and requirement definition.</sub>
 
-* Harvard, Researcher, 2020
+* Data Scientist & Software Developer, 2020 - 2021
+  * <sub>Saab AB, Stockholm, Sweden</sub>
+  * <sub>I developed machine learning models for surveillance applications and a containerized machine learning pipeline that allows Saab to train and deploy prediction models on customer sites using their own data.</sub>
+
+* Researcher, 2020
   * <sub>Harvard University, Boston, Massachusetts</sub>
   * <sub>Supervisor: Prof. Na Li </sub>
-  * <sub>Research on zero-order distributed optimization for networked systems.</sub>
+  * <sub>I researched on zero-order distributed Bayesian optimization in multi-agent systems. I devel- oped a compact python package for distributed optimization that allow simulating and bench- marking novel optimization algorithms.</sub>
 
-* KTH, Teaching Assistant, 2019
-  * <sub>The Royal Institute of Technology, KTH, Stockholm, Sweden</sub>
-  * <sub>Supervisors: Prof. Bo Wahlberg, Prof. Henrik Sandberg</sub>
-  * <sub>Laboratory teaching assistant in the Automatic Control course (EL1000).</sub>
-
-* NASA, Robotics Researcher, 2019
+* Researcher, 2019
   * <sub>Jet Propulsion Laboratory, NASA, Pasadena, California</sub>
   * <sub>Supervisors: Ph.D. Petter Nilsson, Ph.D. Ali Agha, Prof. Richard M. Murray</sub>
-  * <sub>Research/development and implementation of [COPS](https://github.com/FilipKlaesson/cops) planning-software in DARPA Subterranean Challenge. Article: [Planning and Optimization for Multi-Robot Planetary Cave Exploration under Intermittent Connectivity Constraints](http://FilipKlaesson.github.io/publication/Planning_and_Optimization_for_Multi-Robot_Planetary_Cave_Exploration_under_Intermittent_Connectivity_Constraints).</sub>
+  * <sub>I developed a mission autonomy connectivity planning software for use in DARPA Subterranean Challenge. The software is able to execute arbitrary mission plans improving the development cycle of planning algorithms.</sub>
 
-* Caltech, Robotics Researcher, 2019
+* Researcher, 2019
   * <sub>California Institute of Technology, Caltech, Pasadena, California</sub>
   * <sub>Supervisors: Ph.D. Petter Nilsson, Prof. Richard M. Murray</sub>
-  * <sub>Research in planning for connectivity-constrained multi-agent systems and development of the planning software [COPS](https://github.com/FilipKlaesson/cops). Article: [Intermittent Connectivity for Exploration in Communication-Constrained Multi-Agent Systems](http://FilipKlaesson.github.io/publication/Intermittent_Connectivity_for_Exploration_in_Communication-Constrained_Multi-Agent_Systems).</sub>
+  * <sub>I researched on optimization-based planning for connectivity-constrained multi-agent systems. The planning algorithm developed was implemented and released in the python package [COPS](https://github.com/FilipKlaesson/cops).</sub>
 
-* KTH, Teaching Assistant, 2018
+* Teaching Assistant, 2018 - 2019
   * <sub>The Royal Institute of Technology, KTH, Stockholm, Sweden</sub>
   * <sub>Supervisors: Prof. Bo Wahlberg, Prof. Henrik Sandberg</sub>
-  * <sub>Laboratory teaching assistant in the Automatic Control course (EL1000).</sub>
+  * <sub>I assisted and guided groups of students in automatic control labs.</sub>
 
-* Caltech, SURF Researcher, 2018
+* Researcher, 2018
   * <sub>California Institute of Technology, Caltech, Pasadena, California</sub>
   * <sub>Supervisors: Ph.D. Jin Ge, Prof. Henrik Sandberg, Prof. Richard M. Murray</sub>
-  * <sub>Research in applied control theory and robotics. The research covered development and implementation of a control system for autonomous driving on an F1/10 unit.</sub>
+  * <sub>I developed and implemented localization and control systems for autonomous driving in multi- lane traffic. I used lidar data to map and localize in the environment in real time.</sub>
 
-* Zhèdà, Student Researcher, 2017
+* Researcher, 2017
   * <sub>Zhejiang University, Zhèdà, Hangzhou, China.</sub>
   * <sub>Supervisor: Prof. Min Qiu</sub>
-  * <sub>Research in the field of nano physics, especially optics. The project resulted in a paper published by the research team: http://ipnp.zju.edu.cn/publication.html nr (215)</sub>
+  * <sub>I researched the effects and properties of gold nanoparticles in the interaction with pulsating light. The research contributed to the understanding of the different effects on nanoparticles between different light patterns.</sub>
 
 <hr>
 
-Skills
+Education
 ======
-* Programming Languages
-  * <sub>Python</sub>
-  * <sub>Matlab</sub>
-  * <sub>Java</sub>
-  * <sub>Javascript/REACT (basic)</sub>
-  * <sub>C++ (basic)</sub>
-  * <sub>LaTeX</sub>
-* Software Skills
-  * <sub>Linux</sub>
-  * <sub>Git</sub>
-  * <sub>Kubernetes</sub>
-  * <sub>Helm</sub>
-  * <sub>Jenkins</sub>
-  * <sub>Tekton</sub>
-  * <sub>ROS</sub>
-  * <sub>Simulink</sub>
-  * <sub>Gurobi Optimizer</sub>
-  * <sub>MS Office</sub>
-  * <sub>OpenModelica</sub>
-  * <sub>Comsol</sub>
-* Language Skills
-  * <sub>Swedish</sub>
-  * <sub>English</sub>
-  * <sub>German (basic)</sub>
-* Licenses
-  * <sub>Swedish drivers licence B</sub>
+
+* Researcher, School of Engineering and Applied Sciences, Harvard University, 2020
+  * <sub>Supervisor: Prof. Na Li</sub>
+* M.S. in Systems, Control and Robotics, KTH Royal Institute of Technology, 2020
+  * <sub>Supervisors: Prof. Karl Henrik Johansson, Prof. Henrik Sandberg </sub>
+* Researcher, Computing and Mathematical Sciences, California Institute of Technology, 2019
+  * <sub>Supervisor: Prof. Richard M. Murray</sub>
+* B.S. in Engineering Physics, KTH Royal Institute of Technology, 2018
 
 <hr>
 
@@ -109,14 +76,6 @@ Publications
     {% endif %}
   {% endfor %}</ul>
 
-<!---
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
--->
-
 <hr>
 
 Teaching
@@ -125,19 +84,32 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<!---
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
--->
-
 <hr>
 
-References
+Competences
 ======
-* [Henrik Sandberg](https://people.kth.se/~hsan/), KTH Royal Institute of Technology
-* [Joakim Ekblad](https://www.linkedin.com/in/joakim-ekblad/?originalSubdomain=se), Saab AB Surveillance
-* [Karl Henrik Johansson](https://people.kth.se/~kallej/), KTH Royal Institute of Technology
-* [Na Li](https://nali.seas.harvard.edu/), Harvard University
-* [Petter Nilsson](https://pettni.github.io/#/), California Institute of Technology
-* [Richard M. Murray](http://www.cds.caltech.edu/~murray/wiki/Main_Page), California Institute of Technology
+* Technical
+  * <sub>Golang, Python, Java, JavaScript, React, C/C++, Bash, Matlab, LaTeX</sub>
+  * <sub>Docker, Podman, Kubernetes, Helm, Kubebuilder, Istio</sub>
+  * <sub>REST, GRPC, Protobuf, Protoc, FastAPI, OpenAPI, Django, Flask, Uvicorn</sub>
+  * <sub>NATS, Kafka, RabbitMQ, ROS</sub>
+  * <sub>Poetry, Pyenv, PyTorch, Pydantic, Pandas, Jupyter, Scikit-Learn, Keras, Gurobi</sub>
+  * <sub>PostgreSQL, TimescaleDB, MongoDB, ArangoDB, MySQL, Redis</sub>
+  * <sub>Git, Artifactory, Bitbucket, Github, GitLab, Gerrit, Digital Ocean, AWS, GitlabCI, Jenkins, Tekton, Drone, Argo</sub>
+  * <sub>Linux, OS X, Vim, VSCode Scrum, Jira, Confluence, BPMN</sub>
+* Experiences
+  * <sub>Team Leader</sub>
+  * <sub>System Architect</sub>
+  * <sub>Backend Developer</sub>
+  * <sub>Data Scientist</sub>
+  * <sub>Machine Learning Engineer</sub>
+  * <sub>DevOps Engineer</sub>
+  * <sub>Control & System Engineer</sub>
+* Languages
+  * <sub>Swedish</sub>
+  * <sub>English</sub>
+  * <sub>German</sub>
+* Licenses
+  * <sub>Swedish drivers licence B</sub>
+
+<hr>
